@@ -29,8 +29,8 @@ Follow these instructions to get the project up and running on your local machin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mohammednudman/NinjaMarket.git
-   cd NinjaMarket/backend 
+   git clone https://github.com/dev-oza/NinjaStore.git
+   cd NinjaStore/backend 
    npm install 
    cd .. 
    cd frontend
@@ -55,5 +55,3 @@ Follow these instructions to get the project up and running on your local machin
 ### License
 This project is licensed under the APACHE2 License - see the LICENSE.md file for details.
 
-Contact
-If you have any questions or need further assistance, please feel free to contact us at [mohammednudman@gmail.com](mohammednudman@gmail.com).
